@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -11,14 +12,22 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1702.8101"
-   height="2260.1699"
-   viewBox="0 0 1702.8101 2260.17"
+   height="3113.3401"
+   viewBox="0 0 1702.8101 3113.3402"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="lineb.svg">
+   sodipodi:docname="line.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5688"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5690" />
+    </linearGradient>
     <clipPath
        id="clipPath3388"
        clipPathUnits="userSpaceOnUse">
@@ -372,16 +381,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.02734375"
-     inkscape:cx="9983.7258"
-     inkscape:cy="1056.7377"
+     inkscape:zoom="1.28"
+     inkscape:cx="1099.4691"
+     inkscape:cy="2690.3829"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1387"
+     inkscape:window-height="879"
+     inkscape:window-x="53"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -400,7 +409,7 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1207.8078)">
+     transform="translate(0,2060.9779)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -9002.4795,-1208.7633 c 103.1324,45.1239 118.3878,76.1858 404.6681,108.536 151.0784,26.2458 397.372,-33.5092 430.0277,99.699 72.2214,222.43467 45.9634,466.57574 28.5573,699.93042 l -0.8624,389.529718 c -7.8879,253.010662 295.2025,258.585172 369.1873,413.907362"
@@ -408,10 +417,16 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.73977274,-1206.509 C 273.03637,-1052.1376 586.00627,-1073.4212 880.62547,-1054.2576 c 315.58063,37.7846 336.21693,289.61934 351.01093,537.10434 10.6868,187.2545 -11.9076,373.62814 -30.5528,552.392637 -9.8276,94.224003 -5.556,182.163003 -10.8408,277.088903 -17.7719,337.65761 85.8693,404.41031 229.0901,494.41561 124.4032,65.6997 238.4892,136.8295 282.0883,245.05771"
-       id="path4879"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#e52e3b;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -210.11172,-2225.3808 c 0,0 170.169168,274.9436 811.10361,321.3525 355.49211,17.9349 489.98011,13.1413 546.18371,86.2161 5.6263,7.3152 10.4681,15.4107 14.6686,24.3875"
+       id="path4235"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsccc" />
+       sodipodi:nodetypes="ccsc" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1150.9147,-1812.6687 c 16.8233,24.4868 25.9998,57.146 32.1744,101.2518 31.5612,240.2991 32.0855,389.9644 72.9086,594.5897 27.0853,135.76475 -69.1579,310.65486 -79.2022,396.56038 -0.6152,5.26208 -6.3934,32.85532 -0.101,61.65762"
+       id="path4235-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssc" />
   </g>
 </svg>

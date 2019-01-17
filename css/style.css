@@ -278,7 +278,7 @@ header .intro-text {
   .line-svg {
 	position: absolute;
 	width: 100%;
-	top: 150px;
+	top: -200px;
   }
 
 
@@ -351,24 +351,24 @@ header .intro-text {
 	margin: 30px 0;
 }
 /* Services Section */
-#services {
-	padding: 63px 0;
+#counts {
+    border-top: solid 1px #fff;
 
 	color: #fff;
 	background-color: #e52e3b !important;
 	/*background-repeat: no-repeat !important;*/
 }
-#services hr {
+#counts hr {
 	background-color: #fff;
 	padding: 2px 30px;
 }
-#services .service-desc {
+#counts .service-desc {
 	margin: 10px 10px 20px;
 }
-#services h2 {
+#counts h2 {
 	color: #fff;
 }
-#services .section-title h2::after {
+#counts .section-title h2::after {
 	position: absolute;
 	content: "";
 	background: rgba(255,255,255,.3);
@@ -378,7 +378,7 @@ header .intro-text {
 	margin-left: -30px;
 	left: 50%;
 }
-#services i.fa {
+#counts i.fa {
 	font-size: 42px;
 	width: 120px;
 	height: 120px;
@@ -388,18 +388,18 @@ header .intro-text {
 	color: #fff;
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
-#services h3 {
+#counts h3 {
 	font-weight: 500;
 	padding: 5px 0;
 	color: #fff;
 	font-size: 8em;
 }
-#services p {
+#counts p {
 	color: #fff !important;
 	font-size: 3em;
 	font-family: Montserrat-Medium;
 }
-#services .service-desc {
+#counts .service-desc {
 	margin-bottom: 40px;
 }
 .textoservice {
@@ -448,15 +448,11 @@ a:hover {
 	text-decoration: none !important;
 }
 
-/* Portfolio Section */
-#portifolio {
-	/*padding: 100px 0;*/
-}
 #servicos {
 	background-color: #fff !important;
 	/*background-repeat: no-repeat !important;*/
 }
-#portifolio h3 {
+#services h3 {
 	font-weight: 500;
 	padding: 5px 0;
 	color: #e52e3b;
