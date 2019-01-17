@@ -1,28 +1,19 @@
-/*! * Start Bootstrap - Creative v5.0.1 (https://startbootstrap.com/template-overviews/creative) * Copyright 2013-2018 Start Bootstrap * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE) */
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src:url('../fontes/Montserrat-Bold.ttf') format('ttf'),
+		url('../fontes/Montserrat-Bold.woff2') format('woff2'),
+        url('../fontes/Montserrat-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
 
 @font-face {
-	font-family: Montserrat-Bold;
-	src: url("/fontes/Montserrat-Bold.ttf");
-}
-@font-face {
-	font-family: Montserrat-Italic;
-	src: url("/fontes/Montserrat-Italic.ttf");
-}
-@font-face {
-	font-family: Montserrat-Light;
-	src: url("/fontes/Montserrat-Light.ttf");
-}
-@font-face {
-	font-family: Montserrat-Medium;
-	src: url("/fontes/Montserrat-Medium.ttf");
-}
-@font-face {
-	font-family: Montserrat-Regular;
-	src: url("/fontes/Montserrat-Regular.ttf");
-}
-@font-face {
-	font-family: Montserrat-Thin;
-	src: url("/fontes/Montserrat-Thin.ttf");
+    font-family: 'Montserrat-Medium';
+    src:url('../fontes/Montserrat-Medium.ttf') format('ttf'),
+		url('../fontes/Montserrat-Medium.woff2') format('woff2'),
+        url('../fontes/Montserrat-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
 }
 
 body,html{
